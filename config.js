@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/kahfiofc'
-global.syt = 'https://www.youtube.com/@MaxxyBotz'
-global.sgh = 'https://github.com/Frezzy-XD'
+global.sig = 'https://instagram.com/zaky_riyady'
+global.syt = 'https://www.youtube.com/@JakiGemink'
+global.sgh = 'https://github.com/JustYakz'
 global.sgc = 'https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup'
-global.swa = 'wa.me/628989513496'
+global.swa = 'wa.me/6285828510140'
 global.swb = '-'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '08989513496'
+global.pdana = '085828510140'
 global.povo = '-'
 global.pgopay = '-'
 global.ppulsa = '-'
-global.ppulsa2 = '08989513496'
-global.psaweria = 'https://saweria.com/MaxxyBotz'
+global.ppulsa2 = '085828510140'
+global.psaweria = 'https://saweria.co/HulkNoob'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964'
-global.nomorown = '628989513496'
-global.namebot = 'Bang Fuad'
-global.nameown = 'Blitz-XD'
+global.nomorbot = '6285828510140'
+global.nomorown = '6285828510140'
+global.namebot = 'Yakz-Bot'
+global.nameown = 'Yakz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628989513496', 'Bang Fuad', 'true']
+  ['6285828510140', 'Yakz', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,16 +102,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By Neko Bot' //Main Watermark
-global.wm2 = 'Neko Bot'
-global.wm3 = 'Neko Bot | By Bang Fuad'
+global.wm = 'By Yakz-Bot' //Main Watermark
+global.wm2 = 'Yakz-Bot'
+global.wm3 = 'Yakz-Bot | By Yakz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Neko Bot| ʙʏ ${global.nameown}`
-global.author = 'Bang Fuad' 
-global.packname = 'Neko Bot'
-global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Juli 11 2022'
+global.titlebot = `Yakz-Bot| ʙʏ ${global.nameown}`
+global.author = 'Yakz' 
+global.packname = 'Yakz-Bot'
+global.danied = 'Error Kontol'
+global.ultahowner = 'Agustus 17 1945'
 
 
 /*============== LOGO ==============*/
@@ -123,14 +123,14 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya NeKo Bot Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh Bang Fuad  Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo Xontol, Kenalin gw Yakz-Bot gw akan membantu kalian kapan pun & Dimana pun, Gw asisten bot WhatsApp yang di buat oleh Yakz  Rilis di rilis pada tanggal\n🗓 ️_17/8/1945_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Blitz'
-global.umurowner = '19'
-global.asalowner = 'Japanes, Jonggol'
-global.nomorowner = 'wa.me/6285380166282'
-global.pacarowner = 'kepo'
+global.nameowner = 'Yakz'
+global.umurowner = '10000'
+global.asalowner = 'Japanes, Hiroshima'
+global.nomorowner = 'wa.me/6285828510140'
+global.pacarowner = 'Gak Punya'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -378,8 +378,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By MaxxyBotz'
-global.stickauth = `Blitz-XD`
+global.stickpack = 'By Yakz-Bot'
+global.stickauth = `Yakz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
