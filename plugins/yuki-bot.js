@@ -13,7 +13,7 @@ contextInfo: { externalAdReply :{
                         title: global.titlebot,
                         body: '⚘ ᴄʀᴇᴀᴛᴇ ʙʏ Yakz ×፝֟͜×',          previewType: 0,
                         thumbnail: await (await fetch(pp)).buffer(),
-                        sourceUrl: 'https://youtu.be/pwLZpdfO8AU'
+                        sourceUrl: 'https://youtu.be/iR4PxYCGrTo'
                       }}
 })
 }
